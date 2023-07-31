@@ -68,6 +68,7 @@ class ViewController: UIViewController {
             
             playSound()
             timer.invalidate()
+           
         }
     }
     
